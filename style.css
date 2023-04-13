@@ -1,0 +1,65 @@
+body {
+  font-family: Courier New;
+  text-align: center;
+}
+
+#title {
+  font-size: 24px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#board {
+  margin-bottom: 30px;
+}
+
+#board button {
+  background-color: black;
+  font-size: 24px;
+  margin: 10px;
+  padding: 20px 0px;
+  width: 70px;
+  color: rgb(130, 130, 130);
+}
+
+#board button.activated {
+  background-color: greenyellow;
+}
+
+#board button.x {
+  color: red;
+}
+
+#board button.o {
+  color: blue;
+}
+
+#score_x {
+  color: red;
+}
+
+#score_o {
+  color: blue;
+}
+
+#restart {
+  font-size: 16px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  margin: 5px;
+}
+
+#restart.active {
+  background-color: rgb(
+    227,
+    2,
+    252
+  ); /* or any other color for the active state */
+  /* Other styles for the active state, if needed */
+}
+
+#restart.inactive {
+  background-color: black; /* or any other color for the inactive state */
+  /* Other styles for the inactive state, if needed */
+}
