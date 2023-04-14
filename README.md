@@ -18,7 +18,8 @@ A simple single-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript, w
 
 ## Screenshots
 
-(You can add screenshots of your game here)
+<img src="img/restartGame.png" alt="Restart Game" width="400px">
+<img src="img/activeGame.png" alt="Active Game" width="400px">
 
 ## License
 
