@@ -2,6 +2,8 @@
 
 A simple single-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript, where you can play against a basic AI.
 
+Coded by Bo Louie under instruction from Professor Chris Kim at OCAD University's School of Continuing Studies
+
 ## Features
 
 - Play against a basic AI.
