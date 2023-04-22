@@ -2,7 +2,7 @@
 
 A simple single-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript, where you can play against a basic AI.
 
-Coded by Bo Louie with instructor Chris Kim in Designing Artificial Intelligence (AI) applications at [OCAD University](https://continuingstudies.ocadu.ca/search/publicCourseSearchDetails.do?method=load&courseId=12164429&selectedProgramAreaId=17820&selectedProgramStreamId=17837)
+Coded by Bo Louie with instructor of Designing Artificial Intelligence (AI) applications at [OCAD University](https://continuingstudies.ocadu.ca/search/publicCourseSearchDetails.do?method=load&courseId=12164429&selectedProgramAreaId=17820&selectedProgramStreamId=17837)
 
 ## Features
 
